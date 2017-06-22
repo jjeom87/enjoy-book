@@ -408,5 +408,4 @@
 * 실용주의 사고와 학습 Pragmatic Thinking & Learning Refactor Your Wetware (앤디 헌터/박영록/위키북스)
 * 조엘 온 소프트웨어 : 유쾌한 오프라인 블로그 (Joel Spolsky/박재호, 이해영/에이콘출판사/2005.04.07)
 * 사랑하지 않으면 떠나라! (차드 파울러 저 / 송우일 역 | 인사이트(insight) | 2008년 01월 11일)
-** 부제 : 개발자의 자기 계발과 경력 관리를 위한 52가지 실천 가이드
-** 원제 : My Job Went to India : 52 Ways to Save Your Job
+** 부재 : 개발자의 자기 계발과 경력 관리를 위한 52가지 실천 가이드
