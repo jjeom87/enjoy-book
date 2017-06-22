@@ -236,7 +236,6 @@
 * The art of computer programming 1
 * 익스트림 프로그래밍 2판
 * 난 정말 C PROGRAMMING을 공부한적이 없다구요!
-* 성공적인 웹 프로그래밍 PHP와 MySQL
 
 ### 자료구조/알고리즘
 * Programming Challenges : 알고리즘 트레이닝 북 (스티븐 스키에나,미구엘 레비야 / 서환수 / 한빛미디어)
@@ -367,6 +366,7 @@
 ### Perl
 ### PHP
 * PHP 프로그래밍 입문 (황재호 저 | 한빛아카데미 | 2005년 12월)
+* 성공적인 웹 프로그래밍 PHP와 MySQL [] (루크 웰링, 로라 톰슨 공저 / 심재철 역 | 정보문화사 |)
 ### Ruby/Rails
 ### Visual Basic
 ### Visual C++
