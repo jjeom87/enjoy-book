@@ -385,8 +385,8 @@
 ### XML
 ### 프로그래밍 교육
 * 훌륭한 프로그래머 되는 법 (피트 구들리프 저 / 최원재, 강전희, 안재덕, 남윤화 공역 | 한빛미디어 | 2015년 12월 10일)
-  * 부재 : 프로젝트와 팀을 성공으로 이끄는 선배 개발자의 노하우
-  * 원재 : Becoming a Better Programmer: A Handbook for People Who Care About Code
+   * 부재 : 프로젝트와 팀을 성공으로 이끄는 선배 개발자의 노하우
+   * 원재 : Becoming a Better Programmer: A Handbook for People Who Care About Code
 ### 프로그래밍 언어 기타
 * 플래시 빌더 4 & 플렉스 4 바이블 (데이비드 가스너/유윤선/위키북스/2011.04.07)
 * 클로저 프로그래밍의 즐거움 (마이클 포거스, 크리스 하우저/김선호/비제이퍼블릭)
