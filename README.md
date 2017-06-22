@@ -251,7 +251,6 @@
 * Foundation Actionscript 3.0 Image Effects
 * 패턴 그리고 객체지향적 코딩의 법칙
 * .fla 2
-* 
 * 게임 프로그래머를 위한 기초 수학과 물리
 * 프로젝트가 서쪽으로 간 까닭은
 * K교수의 객체지향 이야기
@@ -261,7 +260,6 @@
 * 성공적인 웹 프로그래밍 PHP와 MySQL
 * Head First Software Development
 * Flash3Dコンテンツ制作のためのPapervision3D入門
-
 * 실용주의 프로그래머를 위한 버전관리 using CVS
 
 ### 자료구조/알고리즘
