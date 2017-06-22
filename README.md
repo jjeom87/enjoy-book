@@ -252,7 +252,7 @@
 * Foundation Actionscript 3.0 Image Effects
 * 패턴 그리고 객체지향적 코딩의 법칙
 * .fla 2
-* Refactoring 리팩토링
+* 
 * 게임 프로그래머를 위한 기초 수학과 물리
 * 프로젝트가 서쪽으로 간 까닭은
 * K교수의 객체지향 이야기
@@ -354,7 +354,8 @@
 * GoF의 디자인 패턴 : 재사용성을 지닌 객체지향 소프트웨어의 핵심요소 (에릭 감마/김정아/프로텍미디어)
 * UML 실전에서는 이것만 쓴다 : Java 프로그래머를 위한 UML (로버트 C. 마틴/이용원,정지호/인사이트/2010.12.30)
 * 켄트 벡의 구현 패턴 : 읽기 쉬운 코드를 작성하는 77가지 자바 코딩 비법 (켄트 벡/전동환/에이콘출판사/2008년 02월 14일)
- * 원제 : Implementation Patterns (Addison-Wesley Signature)
+  * 원제 : Implementation Patterns (Addison-Wesley Signature)
+* 리팩토링 코드 품질을 개선하는 객체지향 사고법 (마틴 파울러 저 / 김지원 역 | 한빛미디어 | 2012년 11월 09일)
 ## 컴퓨터 수험서
 
 ## 컴퓨터 입문/활용
