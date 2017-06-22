@@ -12,7 +12,6 @@
 * 누워서 읽는 퍼즐북
 * 도메인 주도 설계
 * 패턴 지향 소프트웨어 아키텍처
-* jQuery Mobile
 * 게임&인터랙티브 애플리케이션을 위한 수학
 * 프로그래밍 콘테스트 챌린징
 * 한 권으로 끝내는 정규표현식
@@ -20,7 +19,6 @@
 * 웹 개발자를 위한 스프링 3.0 프로그래밍
 * 오라클 성능 고도화 원리와 해법 1
 * 오라클 성능 고도화 원리와 해법 2
-* 허드슨을 이용한 지속적 통합
 * SQL Server 운영과 튜닝
 * 자바스크립트 웹 애플리케이션 JavaScript Web Applications
 * Beautiful Code
@@ -217,7 +215,6 @@
 * 웹표준 교과서
 * ActionScript 3.0 Cookbook
 * 액션스크립트 3.0 디자인 패턴
-* PHP 프로그래밍 입문
 * Ajax 인 액션
 * Head First Design Patterns
 * Beautiful Web Design 뷰티풀 웹 디자인
@@ -323,7 +320,7 @@
 ### 운영체제 일반
 ### 데이터베이스 일반
 * T-SQL PROGRAMMING (Itzik Ben-Gan, Dejan Sarka, Roger Wolter/ 김영건, 성대중/ 김정선 감수/정보문화사/2007년 01월 05일)
-  * 부재 : INSIDE MICROSOFT SQL SERVER 2005
+  * 부재 : INSIDE MICROSOFT SQL SERVER 2005
 ### 개발방법론
 * 코딩인터뷰 완전분석 (진행중 / 게일 라크만 맥도웰 / 이병준 / 인사이트)
 * GoF의 디자인 패턴 (에릭 감마, 리처드 헬름, 랄프 존슨, 존 블라시디스/피어슨에듀케이션코리아)
@@ -365,9 +362,11 @@
 * 패턴 그리고 객체지향적 코딩의 법칙 (문우식 저 | 한빛미디어 | 2007년 11월)
 ### JavaScript/CGI
 * jQuery 1.3 작고 강력한 자바스크립트 라이브러리 (조나단 채퍼, 칼 스웨드버그/이승준/위키북스/2009.09.17)
+* jQuery Mobile (존 라이드 저 / 한선용 역 | 한빛미디어 | 2011년 08월 31일)
 ### JSP
 ### Perl
 ### PHP
+* PHP 프로그래밍 입문 (황재호 저 | 한빛아카데미 | 2005년 12월)
 ### Ruby/Rails
 ### Visual Basic
 ### Visual C++
@@ -404,3 +403,4 @@
 * 사랑하지 않으면 떠나라! (차드 파울러 저 / 송우일 역 | 인사이트(insight) | 2008년 01월 11일)
   * 부재 : 개발자의 자기 계발과 경력 관리를 위한 52가지 실천 가이드
   * 원재 : My Job Went to India : 52 Ways to Save Your Job
+* 허드슨을 이용한 지속적 통합 (장윤기 저 | 인사이트(insight) | 2012년 06월 20일)
