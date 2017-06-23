@@ -260,6 +260,9 @@
 * Head First Object Oriented Analysis & Design 세상을 설계하는 객체지향 방법론 (브렛 맥래프린, 게리 폴리스, 데이빗 웨스트 공저 / 신광연, 박종걸 공역 | 한빛미디어 | 2007년 05월 31일)
 * DDD START! : 도메인 주도 설계 구현과 핵심 개념 익히기 (최범균 저 | 지앤선(志&嬋) | 2016년 05월 27일)
 * 소프트웨어개발의 지혜 : 원칙 디자인패턴 실천방법 (로버트 C. 마틴 외공저 / 이용원 역 | 야스미디어 | 2004년 03월 08일)
+  * 원재 : Agile Software Development, Principles, Patterns, and Practices
+* 클린 소프트웨어 애자일 원칙과 패턴, 그리고 실천 방법 (로버트 C. 마틴 저 / 이용원, 김정민, 정지호 공역 | 제이펍 | 2017년 05월 15일)
+  * 원재 :  Agile Software Development, Principles, Patterns, and Practices
 ### 자료구조/알고리즘
 * The art of computer programming 1 (도널드 커누스(Donald E. Knuth) 저 | 한빛미디어 | 2006년 09월)
 * 뇌를 자극하는 알고리즘 (박상현 저 | 한빛미디어 | 2009년 09월 15일)
