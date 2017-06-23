@@ -69,8 +69,8 @@
 * 웹 표준 핵심 가이드북 2 HTML5+CSS3 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788959523016)
 * 모던 웹을 위한 HTML5 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480416)
 ### 웹디자인
-* 크리에이티브 디자이너를 위한 웹 표준 (송태민 저 | 제우미디어 | 2009년 08월 05일)
-* Beautiful Web Design 뷰티풀 웹 디자인 : 좋아 보이는 웹사이트를 만드는 디자인 원칙 (제이슨 비어드 저 / 이광우 역 | 인사이트 | 2009년 05월 11일)
+* 크리에이티브 디자이너를 위한 웹 표준 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788959521692)
+* Beautiful Web Design [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268593)
 ### 웹기획
 * 웹표준 완전정복 세트 (댄 씨더홈, 앤디 버드/박수만/에이콘출판사)
 * 웹 개발자를 위한 웹을 지탱하는 기술 (야마모토 요헤이 저 / 김성훈 역 / 권정혁 감수 | 멘토르 | 2011년 05월 30일)
