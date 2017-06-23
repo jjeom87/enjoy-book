@@ -88,11 +88,12 @@
 * **Clean Code 클린 코드** [상세정보](http://www.yes24.com/24/goods/3732893?scode=032&OzSrank=10)
 * **소프트웨어개발의 지혜** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991105003)
 * **클린 소프트웨어** 애자일 원칙과 패턴, 그리고 실천 방법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890852)
+* **클린 코더** 단순 기술자에서 진정한 소프트웨어 장인이 되기까지 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960778818)
 * 실전 코드로 배우는 실용주의 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508512)
-* 엘리멘틀 디자인 패턴 : 객체지향과 디자인 패턴의 연결 고리 (제이슨 맥컴 스미스/김지원/한빛미디어)
+* 엘리멘틀 디자인 패턴 : 객체지향과 디자인 패턴의 연결 고리 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480140)
 * Head First Object Oriented Analysis & Design [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144949)
-* 도메인 주도 설계 구현 (반 버논 저 | 에이콘출판사 | 2016년 04월 07일)
-* DDD START! : 도메인 주도 설계 구현과 핵심 개념 익히기 (최범균 저 | 지앤선(志&嬋) | 2016년 05월 27일)
+* 도메인 주도 설계 구현 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960778429)
+* DDD START! [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788993827446)
 * 스크럼 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268470)
 * 기업 통합 패턴 Enterprise Integration Patterns [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960776128)
 * 소프트웨어 컨플릭트 2.0 [상세정보](http://www.yes24.com/24/Goods/2309846?Acode=101)
@@ -117,6 +118,8 @@
 * 다양한 예제로 학습하는 데이터 구조와 알고리즘 for Java (나라심하 카루만치 저 / 전계도, 전형일 공역 | 인사이트 | 2014년 02월 22일)
 * 게임 프로그래머를 위한 자료구조와 알고리즘 (Ron Penton 저 / 류광 역 | 정보문화사 | 2004년 01월 05일)
 * 알고리즘 문제 풀이 전략 (조중필, 한현상, 이주호 공저 | 한빛미디어 | 2016년 06월 01일)
+* C로 배우는 알고리즘 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701395)
+* C로 배우는 알고리즘 2 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701913)
 ### 전산수학(SPSS/MATLAB)
 ### 정보통신 공학
 ### 취미 공학
@@ -333,6 +336,7 @@
 * 리눅스 서버를 다루는 기술 (신재훈 저 | 길벗 | 2015년 02월 03일)
 * 리눅스를 활용한 회사 인프라 구축의 모든 것 (정광섭 저 | 위키북스 | 2014년 12월 29일)
 * CentOS 리눅스 구축관리 실무 (김태용 저 | 수퍼유저코리아 | 2007년 12월 01일)
+* 김태용의 리눅스 쉘 스크립트 프로그래밍 입문 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996241027)
 ### 유닉스
 * 손에 잡히는 Vim (김선영 저 | 인사이트 | 2011년 03월 31일)
 * 유닉스 리눅스 프로그래밍 필수 유틸리티 (백창우 저 | 한빛미디어 | 2010년 09월 06일)
