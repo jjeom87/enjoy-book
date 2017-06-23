@@ -2,11 +2,11 @@
 
 ## 게임
 ### 게임 기획
-* 게임 물리 바이블 (David H. Eberly 저 / 유채곤, 차미리 공역 | 지앤선(志&嬋) | 2004년 11월 29일)
-* 게임 프로그래머를 위한 기초 수학과 물리 (편집부 저 | 제우미디어 | 2004년 12월 27일)
-* 마로의 꿈 : 액션스크립트 3.0으로 배우는 소셜 게임 프로그래밍 (이명희 저 / 김종훈 그림 | 제이펍 | 2010년 12월 21일)
-* 게임 매니악스 슈팅 게임 알고리즘 (마츠우라 켄이치로, 츠카사 유키 공저 / 손정도 역 / 박민근, Pope Kim 감수 | 한빛미디어 | 2013년 10월 21일)
-* 게임&인터랙티브 애플리케이션을 위한 수학 (JAMES M. VAN VERTH, LARS M. BISHOP 공저 / 김규열 역 | 지앤선(志&嬋) | 2008년 01월 18일)
+* 게임 물리 바이블 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508352)
+* 게임 프로그래머를 위한 기초 수학과 물리 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788990886316)
+* 마로의 꿈 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788994506098)
+* 게임 매니악스 슈팅 게임 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480539)
+* 게임&인터랙티브 애플리케이션을 위한 수학 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508741)
 ### 게임 개발
 ### 게임가이드북/화보집
 ### 모바일 게임
@@ -31,7 +31,7 @@
 * 액션스크립트 3.0 완벽 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268623)
 * Flash3Dコンテンツ制作のためのPapervision3D入門 [상세정보](http://www.yes24.com/24/goods/3645868?scode=032&OzSrank=1)
 * okgosu의 액션스크립트 정석 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960771291)
-* 시작하세요! 액션스크립트 3.0 애니메이션 모션의 원리와 고급 액션까지 (키스 피터스/윤도선/위키북스/2010.04.30)
+* 시작하세요! 액션스크립트 3.0 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010169807KA)
 * Foundation Actionscript 3.0 Image Effects (Yard, Todd | Friends of ED | 2009년 05월)
 * Papervision3D Essentials (Paul Tondeur, Jeff Winder | Packt Publishing | 2009년 09월 03일)
 * .fla 2 Idea of Flash Creation (新藤愛大, 寺井周平 저 | ワ-クスコ-ポレ-ション | 2009년 11월 21일)
