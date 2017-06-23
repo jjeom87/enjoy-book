@@ -47,27 +47,27 @@
 ### 디지털 카메라
 ## 네트워크/해킹/보안
 ### 네트워크 일반
-* TCP/IP Illustrated, Volume 1, Second Edition 한국어판 (케빈 폴, 리차드 스티븐스 / 김중규, 이광수, 이재광, 홍충선 / 에이콘출판사 / 2013년 01월 21일)
-* HTTP 완벽 가이드 (데이빗 고울리, 브라이언 토티, 마조리 세이어, 세일루 레디, 안슈 아가왈 공저 / 이응준, 정상일 공역 | 인사이트 | 2014년 12월 15일)
+* TCP/IP Illustrated, Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960773837)
+* HTTP 완벽 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261208)
 ### TCP/IP
 ### 보안/해킹
 ## 모바일 프로그래밍
 ### 아이폰
 ### 안드로이드폰
-* 프로페셔널 안드로이드 2 애플리케이션 개발
-* 알짜만 골라 배우는 안드로이드 프로그래밍 (마크 머피/강철구/에이콘출판사)
-* 안드로이드를 지배하는 통신 프로그래밍 : 안드로이드를 분해하고 진보한 통신 기술을 훔쳐라 (박헌재 / 프리렉(이한디지털리))
+* 프로페셔널 안드로이드 2 애플리케이션 개발 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010823306IN)
+* 알짜만 골라 배우는 안드로이드 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960771017)
+* 안드로이드를 지배하는 통신 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965400097)
 ### 윈도우폰
 ### 모바일 게임
 ## 모바일/태블릿/SNS
 ## 오피스 활용
 ## 웹사이트
 ### HTML/JavaScript/CSS/jQuery
-* 웹표준 교과서 (다카히로 마시코/김대석/신승식, 신현석, 조훈, 강민혜 감수/디지털미디어리서치/2007년 06월 25일)
-* 오픈 API를 활용한 매쉬업 가이드 (오창훈 저 | 에이콘출판사 | 2009년 08월 19일)
-* CSS 완벽 가이드 (에릭 마이어 저 / 남덕현, 이준 등역 | 위키북스 | 2009년 03월 11일)
-* 웹 표준 핵심 가이드북 2 HTML5+CSS3 (김데레사 저 | 제우미디어 | 2013년 12월 27일)
-* 모던 웹을 위한 HTML5 프로그래밍 (바네사 왕, 프랭크 살림, 피터 모스코비츠 공저 / 김지원 역 | 한빛미디어 | 2013년 07월 01일)
+* 웹표준 교과서 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995527634)
+* 오픈 API를 활용한 매쉬업 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960770942)
+* CSS 완벽 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992939225)
+* 웹 표준 핵심 가이드북 2 HTML5+CSS3 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788959523016)
+* 모던 웹을 위한 HTML5 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480416)
 ### 웹디자인
 * 크리에이티브 디자이너를 위한 웹 표준 (송태민 저 | 제우미디어 | 2009년 08월 05일)
 * Beautiful Web Design 뷰티풀 웹 디자인 : 좋아 보이는 웹사이트를 만드는 디자인 원칙 (제이슨 비어드 저 / 이광우 역 | 인사이트 | 2009년 05월 11일)
