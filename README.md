@@ -72,22 +72,22 @@
 * 크리에이티브 디자이너를 위한 웹 표준 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788959521692)
 * Beautiful Web Design [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268593)
 ### 웹기획
-* 웹표준 완전정복 세트 (댄 씨더홈, 앤디 버드/박수만/에이콘출판사)
-* 웹 개발자를 위한 웹을 지탱하는 기술 (야마모토 요헤이 저 / 김성훈 역 / 권정혁 감수 | 멘토르 | 2011년 05월 30일)
+* 웹표준 완전정복 세트 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960770669)
+* (웹 개발자를 위한) 웹을 지탱하는 기술 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00013336442LI)
 ### UI/UX
 ### 블로그/홈페이지 만들기
 ## 인터넷 비즈니스
 ## 컴퓨터 공학
-* 어셈블리 언어 인텔 기반 컴퓨터를 위한 (KIP R.IRVINE/박명순,윤상균/피어슨에듀케이션코리아/2008.01.01)
+* (인텔 기반 컴퓨터를 위한) 어셈블리 언어 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788945006165)
 ### 컴퓨터 교육
 ### 네트워크/데이터 통신
 ### 마이크로 프로세서
 ### 소프트웨어 공학
-* **엔터프라이즈 애플리케이션 아키텍처 패턴** (마틴 파울러 저 / 최민석 역 | 위키북스 | 2015년 10월 27일)
-* **Clean Code** 클린 코드 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00022070866YE)
-* **Clean Code** 클린 코드 [상세정보](http://www.yes24.com/24/goods/3732893?scode=032&OzSrank=10)
-* **소프트웨어개발의 지혜** (로버트 C. 마틴 외공저 / 이용원 역 | 야스미디어 | 2004년 03월 08일)
-* **클린 소프트웨어 애자일 원칙과 패턴, 그리고 실천 방법** (로버트 C. 마틴 저 / 이용원, 김정민, 정지호 공역 | 제이펍 | 2017년 05월 15일)
+* **엔터프라이즈 애플리케이션 아키텍처 패턴** [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00027619366YE)
+* **Clean Code 클린 코드** [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00022070866YE)
+* **Clean Code 클린 코드** [상세정보](http://www.yes24.com/24/goods/3732893?scode=032&OzSrank=10)
+* **소프트웨어개발의 지혜** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991105003)
+* **클린 소프트웨어** 애자일 원칙과 패턴, 그리고 실천 방법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890852)
 * 실전 코드로 배우는 실용주의 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508512)
 * 엘리멘틀 디자인 패턴 : 객체지향과 디자인 패턴의 연결 고리 (제이슨 맥컴 스미스/김지원/한빛미디어)
 * Head First Object Oriented Analysis & Design [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144949)
