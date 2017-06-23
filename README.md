@@ -26,11 +26,11 @@
 * Photoshop Effects Design 40 (박명환, 박광호, 이윤진, 고선정 공저 | 길벗 | 2005년 05월 12일)
 ### 프리미어
 ### 플래시
-* [돈 되는 프로 플래시 게임만들기](http://book.daum.net/detail/book.do?bookid=KOR1400000010273)
-* [Flash Navigation Pattern 18](http://book.daum.net/detail/book.do?bookid=KOR9788975602467)
-* **[액션스크립트 3.0 완벽 가이드](http://book.daum.net/detail/book.do?bookid=KOR9788991268623)**
-* Flash3Dコンテンツ制作のためのPapervision3D入門 (池田泰延 저 | エクスナレッジ | 2009년 12월 18일)
-* okgosu의 액션스크립트 정석 (옥상훈 저 | 에이콘출판사 | 2010년 04월 19일)
+* 돈 되는 프로 플래시 게임만들기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR1400000010273)
+* Flash Navigation Pattern 18 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788975602467)
+* 액션스크립트 3.0 완벽 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268623)
+* Flash3Dコンテンツ制作のためのPapervision3D入門 [상세정보](http://www.yes24.com/24/goods/3645868?scode=032&OzSrank=1)
+* okgosu의 액션스크립트 정석 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960771291)
 * 시작하세요! 액션스크립트 3.0 애니메이션 모션의 원리와 고급 액션까지 (키스 피터스/윤도선/위키북스/2010.04.30)
 * Foundation Actionscript 3.0 Image Effects (Yard, Todd | Friends of ED | 2009년 05월)
 * Papervision3D Essentials (Paul Tondeur, Jeff Winder | Packt Publishing | 2009년 09월 03일)
