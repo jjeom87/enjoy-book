@@ -9,8 +9,6 @@
 * 데이터아키텍처 전문가 가이드 2010 Edition
 * 게임&인터랙티브 애플리케이션을 위한 수학
 * 프로그래밍 콘테스트 챌린징
-* 오라클 성능 고도화 원리와 해법 1
-* 오라클 성능 고도화 원리와 해법 2
 * 자바스크립트 웹 애플리케이션 JavaScript Web Applications
 * 스프링 3 레시피 : 친절한 스프링 프레임워크 과제 해결서 (게리 막,조시 롱,다니엘 루비오 /고종봉,백기선,유윤선 / 위키북스)
 * 자바스크립트 쿡북 JavaScript Cookbook
@@ -31,7 +29,6 @@
 * 데이터 아키텍처 솔루션 1
 * 테크니컬 리더
 * 린 스타트업
-* SQL 튜닝 비법
 * 테스트 주도 개발
 * 자바스크립트 객체지향 프로그래밍
 * 자바 디자인 패턴
@@ -260,9 +257,9 @@
 * Head First Object Oriented Analysis & Design 세상을 설계하는 객체지향 방법론 (브렛 맥래프린, 게리 폴리스, 데이빗 웨스트 공저 / 신광연, 박종걸 공역 | 한빛미디어 | 2007년 05월 31일)
 * DDD START! : 도메인 주도 설계 구현과 핵심 개념 익히기 (최범균 저 | 지앤선(志&嬋) | 2016년 05월 27일)
 * 소프트웨어개발의 지혜 : 원칙 디자인패턴 실천방법 (로버트 C. 마틴 외공저 / 이용원 역 | 야스미디어 | 2004년 03월 08일)
-  * 원재 : Agile Software Development, Principles, Patterns, and Practices
+    * 원재 : Agile Software Development, Principles, Patterns, and Practices
 * 클린 소프트웨어 애자일 원칙과 패턴, 그리고 실천 방법 (로버트 C. 마틴 저 / 이용원, 김정민, 정지호 공역 | 제이펍 | 2017년 05월 15일)
-  * 원재 :  Agile Software Development, Principles, Patterns, and Practices
+    * 원재 :  Agile Software Development, Principles, Patterns, and Practices
 ### 자료구조/알고리즘
 * The art of computer programming 1 (도널드 커누스(Donald E. Knuth) 저 | 한빛미디어 | 2006년 09월)
 * 뇌를 자극하는 알고리즘 (박상현 저 | 한빛미디어 | 2009년 09월 15일)
@@ -279,7 +276,7 @@
 ### 운영체제 일반
 ### 데이터베이스 일반
 * T-SQL PROGRAMMING (Itzik Ben-Gan, Dejan Sarka, Roger Wolter/ 김영건, 성대중/ 김정선 감수/정보문화사/2007년 01월 05일)
-  * 부재 : INSIDE MICROSOFT SQL SERVER 2005
+    * 부재 : INSIDE MICROSOFT SQL SERVER 2005
 ### 개발방법론
 * 코딩인터뷰 완전분석 (진행중 / 게일 라크만 맥도웰 / 이병준 / 인사이트)
 * GoF의 디자인 패턴 (에릭 감마, 리처드 헬름, 랄프 존슨, 존 블라시디스/피어슨에듀케이션코리아)
@@ -391,6 +388,8 @@
 * 데이터베이스 관리와 실습 (손광수 저 | 한빛아카데미 | 2013년 07월 30일)
 * MySQL 퍼포먼스 최적화 실무 예제로 다가가는 MySQL 쿼리 작성 (성동찬 저 | 한빛미디어 | 2014년 03월 14일)
 ### Oracle
+* 오라클 성능 고도화 원리와 해법 1 (조시형 저 | 비투엔컨설팅 | 2009년 05월 31일)
+* 오라클 성능 고도화 원리와 해법 2 (조시형 저 | 비투엔컨설팅 | 2010년 01월 09일)
 ### SQL Server
 * SQL Server 튜닝 원리와 해법 (정재우 저 | 비투엔컨설팅 | 2010년 08월 30일)
 * SQL Server 운영과 튜닝 : DB 성능 향상을 위한 (SQLTAG 저 | 영진닷컴 | 2012년 04월)
@@ -399,6 +398,7 @@
 * 이것이 레디스다 초고속 읽기 쓰기를 제공하는 인메모리 기반 NoSQL, Redis (정경석 저 | 한빛미디어 | 2013년 11월 05일)
 ### 시스템관리/서버
 * 실무로 배우는 시스템 성능 최적화 시스템 동작 분석부터 성능 개선까지 (권문수 저 | 위키북스 | 2016년 02월 04일)
+* SQL 튜닝 비법 (강남이, 권지윤, 김남훈, 김윤성, 박중건, 양용열, 정지혜, 한승란 공저 | 인사이트(insight) | 2013년 03월 15일)
 
 ## ETC
 * 실용주의 사고와 학습 Pragmatic Thinking & Learning Refactor Your Wetware (앤디 헌터/박영록/위키북스)
