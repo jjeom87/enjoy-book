@@ -26,7 +26,7 @@
 * Photoshop Effects Design 40 (박명환, 박광호, 이윤진, 고선정 공저 | 길벗 | 2005년 05월 12일)
 ### 프리미어
 ### 플래시
-* 돈 되는 프로 플래시 게임만들기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR1400000010273)
+* 돈 되는 프로 플래시 게임만들기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR1400000010273){:target="_blank"}
 * Flash Navigation Pattern 18 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788975602467)
 * 액션스크립트 3.0 완벽 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268623)
 * Flash3Dコンテンツ制作のためのPapervision3D入門 [상세정보](http://www.yes24.com/24/goods/3645868?scode=032&OzSrank=1)
