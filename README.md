@@ -26,9 +26,9 @@
 * Photoshop Effects Design 40 (박명환, 박광호, 이윤진, 고선정 공저 | 길벗 | 2005년 05월 12일)
 ### 프리미어
 ### 플래시
-* 돈 되는 프로 플래시 게임만들기 (이호진 저 | 영진닷컴 | 2004년 08월 20일)
-* Flash Navigation Pattern 18 (윤용호/길벗/2004.10.07)
-* 액션스크립트 3.0 완벽 가이드 (콜린 무크 저 / 유윤선, 송호철 공역 | 인사이트 | 2009년 07월 07일)
+* [돈 되는 프로 플래시 게임만들기](http://book.daum.net/detail/book.do?bookid=KOR1400000010273)
+* [Flash Navigation Pattern 18](http://book.daum.net/detail/book.do?bookid=KOR9788975602467)
+* **[액션스크립트 3.0 완벽 가이드](http://book.daum.net/detail/book.do?bookid=KOR9788991268623)**
 * Flash3Dコンテンツ制作のためのPapervision3D入門 (池田泰延 저 | エクスナレッジ | 2009년 12월 18일)
 * okgosu의 액션스크립트 정석 (옥상훈 저 | 에이콘출판사 | 2010년 04월 19일)
 * 시작하세요! 액션스크립트 3.0 애니메이션 모션의 원리와 고급 액션까지 (키스 피터스/윤도선/위키북스/2010.04.30)
