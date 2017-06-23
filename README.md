@@ -98,7 +98,7 @@
 * 기업 통합 패턴 Enterprise Integration Patterns [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960776128)
 * 소프트웨어 컨플릭트 2.0 [상세정보](http://www.yes24.com/24/Goods/2309846?Acode=101)
 ### 자료구조/알고리즘
-* The art of computer programming 1 (도널드 커누스 / 류광 / 한빛미디어 / 2006년 09월 18일)
+* The art of computer programming 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144307)
 * The art of computer programming 2 (도널드 커누스 / 류광 / 한빛미디어 / 2007년 09월 13일)
 * The art of computer programming 3 (도널드 커누스 / 류광 / 한빛미디어 / 2008년 01월 28일)
 * Introduction to Algorithms [3판] (토머스 코멘,찰스 레이서손,로날드 리베스트,클리포드 스타인 / 문병로,심규석,이충세 | 한빛아카데미 | 2014년 06월 30일)
@@ -172,13 +172,14 @@
 * 코딩 더 매트릭스 (Philip N. Klein 원저 / 필립 클라인 저 / 마이클 역 | 루비페이퍼 | 2015년 05월 10일)
 * 객체지향의 사실과 오해 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998139766)
 * 오픈 소스 소프트웨어 아키텍처 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261260)
-* **리팩토링 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788987939605)**
-* **리팩토링 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK0001933017711)**
+* **리팩토링** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788987939605)
+* **리팩토링** [상세정보](http://book.daum.net/detail/book.do?bookid=BOK0001933017711)
+* 패턴을 활용한 리팩터링 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00011167166IN)
 ### .NET
 ### 델파이
 ### 자바
-* 카이 호스트만의 코어 자바 8 (카이 호스트만 저 / 신경근 역 | 길벗 | 2015년 12월 18일)
-* **자바 8 인 액션** (라울-게이브리얼 우르마,마리오 푸스코,앨런 마이크로프트 /우정은 | 한빛미디어 | 2015년 04월)
+* 카이 호스트만의 코어 자바 8 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791186978115)
+* **자바 8 인 액션** 람다, 스트림, 함수형 프로그래밍으로 새로워진 자바 마스터하기 [상세보기](http://book.daum.net/detail/book.do?bookid=BOK00024837994IN)
 * 자바 병행 프로그래밍 : 디자인 원리와 패턴 (Doug Lea 저 / 최용호 역 | 성안당 | 2003년 02월 28일)
 * Java 프로그래머를 위한 알고리즘과 자료구조 (Yoshiki Kondu 저 / 임병균 역 | 영진닷컴 | 2005년 01월 03일)
 * 코어 J2EE 패턴 (디팍 알루어, 존 크루피, 댄 말크스/김종호/피어슨에듀케이션코리아/2004년05월15)
@@ -243,12 +244,12 @@
 * Ajax 인 액션 (Dave Crane 저 / 강철구 역 | 에이콘출판사 | 2006년 05월 16일)
 ### ASP
 ### C
-* 난 정말 C PROGRAMMING을 공부한적이 없다구요! (윤성우 저 | 오렌지미디어 | 2009년 01월 02일)
-* 패턴을 활용한 리팩터링 (조슈아 케리에브스키 저 / 윤성준, 조상민 공역 | 인사이트(insight) | 2011년 02월 09일)
+* 난 정말 C PROGRAMMING을 공부한적이 없다구요! []()
 * 알고리즘 트레이닝 Competitive Programming (스티븐 할림, 펠릭스 할림 / 김진현 / 인사이트)
 * C와 C++ 게임 코드로 알아보는 코딩의 기술 (오즈 모리하루 저 / 윤인성 역 | 한빛미디어 | 2016년 04월 01일)
 * C로 배우는 쉬운 자료구조 (이지영 저 | 한빛아카데미 | 2013년 07월 30일)
 * 이것이 C 언어다, 서현우의 C 프로그래밍 정복 (서현우 저 / 박상현, 김성훈, 김대정 감수 | 한빛미디어 | 2014년 05월 20일)
+* C 기초 플러스 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931553765)
 ### C#
 ### C++
 * 패턴 그리고 객체지향적 코딩의 법칙 (문우식 저 | 한빛미디어 | 2007년 11월)
