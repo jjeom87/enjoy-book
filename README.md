@@ -154,7 +154,7 @@
 * Head First Software Development [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979146226)
 * 도메인 주도 설계 소프트웨어의 복잡성을 다루는 지혜 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992939850)
 * 패턴 지향 소프트웨어 아키텍처: 패턴 시스템 Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508727)
-* 테스트 주도 개발로 배우는 객체 지향 설계와 실천 (스티브 프리먼, 냇 프라이스 공저 | 인사이트(insight) | 2013년 06월 20일)
+* 테스트 주도 개발로 배우는 객체 지향 설계와 실천 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260836)
 * JUnit in Action : 단위 테스트의 모든 것 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260065)
 * The Art of Project Management [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144093)
 * 코딩을 지탱하는 기술 (니시오 히로카즈 저 / 김완섭 역 | 비제이퍼블릭(BJ퍼블릭) | 2013년 10월 16일)
