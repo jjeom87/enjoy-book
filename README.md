@@ -156,7 +156,7 @@
 * 패턴 지향 소프트웨어 아키텍처: 패턴 시스템 Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508727)
 * 테스트 주도 개발로 배우는 객체 지향 설계와 실천 (스티브 프리먼, 냇 프라이스 공저 | 인사이트(insight) | 2013년 06월 20일)
 * JUnit in Action : 단위 테스트의 모든 것 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260065)
-* The Art of Project Management (스콧 버쿤 저 / 박재호, 이해영 역 | 한빛미디어 | 2006년 06월 29일)
+* The Art of Project Management [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144093)
 * 코딩을 지탱하는 기술 (니시오 히로카즈 저 / 김완섭 역 | 비제이퍼블릭(BJ퍼블릭) | 2013년 10월 16일)
 * 칸반과 스크럼 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260805)
 * 소프트웨어 악취를 제거하는 리팩토링 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791186978320)
