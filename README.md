@@ -355,13 +355,13 @@
 * 오라클 성능 고도화 원리와 해법 2 (조시형 저 | 비투엔컨설팅 | 2010년 01월 09일)
 * 비용기반의 오라클 원리 (Jonathan Lewis 저 / (주)비투엔컨설팅 역 | 지앤선(志&嬋) | 2008년 03월 04일)
 ### SQL Server
-* SQL Server 튜닝 원리와 해법 (정재우 저 | 비투엔컨설팅 | 2010년 08월 30일)
-* SQL Server 운영과 튜닝 : DB 성능 향상을 위한 (SQLTAG 저 | 영진닷컴 | 2012년 04월)
-* 실전 SQL Server MVP 53 : 53인의 MVP가 알려주는 SQL 서버의 모든 것 (MVP 커뮤니티 저 / 성지용, 한대성 공역 | 비제이퍼블릭(BJ퍼블릭) | 2010년 11월 16일)
-* T-SQL PROGRAMMING (Itzik Ben-Gan, Dejan Sarka, Roger Wolter/ 김영건, 성대중/ 김정선 감수/정보문화사/2007년 01월 05일)
+* SQL Server 튜닝 원리와 해법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996246039)
+* SQL Server 운영과 튜닝 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931442427)
+* 실전 SQL Server MVP 53 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996276586)
+* T-SQL PROGRAMMING [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788956743486)
 ### 클라우드/빅데이터
-* 이것이 레디스다 (정경석 저 | 한빛미디어 | 2013년 11월 05일)
-* 만들면서 배우는 기계 학습 (오다카 토모히로 저 / 김성재 역 | 한빛미디어 | 2012년 06월 01일)
+* 이것이 레디스다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480596)
+* 만들면서 배우는 기계 학습 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00017925360BA)
 ### 시스템관리/서버
 * **실무로 배우는 시스템 성능 최적화 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390235)**
 * 시스템 성능 분석과 최적화 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390181)
