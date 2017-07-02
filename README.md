@@ -23,7 +23,7 @@
 ### 캐릭터/애니메이션
 ### 페인터
 ### 포토샵
-* Photoshop Effects Design 40 (박명환, 박광호, 이윤진, 고선정 공저 | 길벗 | 2005년 05월 12일)
+* Photoshop Effects Design 40 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788975603099)
 ### 프리미어
 ### 플래시
 * 돈 되는 프로 플래시 게임만들기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR1400000010273)
@@ -107,17 +107,17 @@
 * 사전처럼 바로 찾아 쓰는 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK0000982458911)
 * **누워서 읽는 퍼즐북** 뉴욕의 프로그래머 임백준의 퍼즐이야기 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00009155864KA)
 * 쉽게 배우는 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998756406)
-* 미래를 바꾼 아홉 가지 알고리즘 (존 맥코믹 저 / 민병교 역 | 에이콘출판사 | 2013년 05월 31일)
-* 속전속결 알고리즘 입문 (김순근 저 | 영진닷컴 | 2005년 12월 15일)
-* 문제로 풀어보는 알고리즘 프로그래밍 트레이닝 Q&A (황인욱, 김용혁 공저 | 인사이트 | 2012년 07월 24일)
-* 해커의 기쁨 (헨리 워렌 저 / 류광 역 | 제이펍 | 2013년 07월 22일)
-* 가장 쉬운 알고리즘 책 (미와 요시코 저 / 김대희, 장재호 공역 / 비제이퍼블릭 / 2014년 09월 29일)
-* 알고리즘 문제 해결 전략 세트 (구종만 저 | 인사이트(insight) | 2012년 11월 21일)
+* 미래를 바꾼 아홉 가지 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960774384)
+* 속전속결 알고리즘 입문 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR1400000212578)
+* 문제로 풀어보는 알고리즘 (프로그래밍 트레이닝 Q&A) [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260461)
+* 해커의 기쁨 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788994506692)
+* 가장 쉬운 알고리즘 책 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788994774770)
+* 알고리즘 문제 해결 전략 세트 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00019388517BA)
 * 프로그래밍 콘테스트 챌린징 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00015435239IN)
 * TopCoder 탑코더 알고리즘 트레이닝 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480553)
-* 다양한 예제로 학습하는 데이터 구조와 알고리즘 for Java (나라심하 카루만치 저 / 전계도, 전형일 공역 | 인사이트 | 2014년 02월 22일)
-* 게임 프로그래머를 위한 자료구조와 알고리즘 (Ron Penton 저 / 류광 역 | 정보문화사 | 2004년 01월 05일)
-* 알고리즘 문제 풀이 전략 (조중필, 한현상, 이주호 공저 | 한빛미디어 | 2016년 06월 01일)
+* 다양한 예제로 학습하는 데이터 구조와 알고리즘 for Java [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260591)
+* 게임 프로그래머를 위한 자료구조와 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788956741406)
+* 알고리즘 문제 풀이 전략 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00029335723AL)
 * C로 배우는 알고리즘 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701395)
 * C로 배우는 알고리즘 2 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701913)
 ### 전산수학(SPSS/MATLAB)
