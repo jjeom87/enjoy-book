@@ -301,11 +301,11 @@
 ### 프로그래밍 교육
 * 훌륭한 프로그래머 되는 법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968482304)
 ### 프로그래밍 언어 기타
-* 허드슨을 이용한 지속적 통합 (장윤기 저 | 인사이트 | 2012년 06월 20일)
-* 클로저 프로그래밍의 즐거움 (마이클 포거스, 크리스 하우저/김선호/비제이퍼블릭)
-* 생각하는 프로그래밍 프로그래밍 본질에 관한 15가지 에세이 (존 벤틀리/윤성준, 조상민/인사이트)
-* CODE 코드 하드웨어와 소프트웨어에 숨어 있는 언어 (찰스 펫졸드/김현규/인사이트(insight))
-* Beautiful Code (찰스 페졸드 외 37 저 | 한빛미디어 | 2007년 12월)
+* 허드슨을 이용한 지속적통합 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK0001813653011)
+* 클로저 프로그래밍의 즐거움 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00028889589IN)
+* 생각하는 프로그래밍 프로그래밍 본질에 관한 15가지 에세이 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995300930)
+* CODE 코드 하드웨어와 소프트웨어에 숨어 있는 언어 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010830743IN)
+* Beautiful Code [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979145380)
 * CODE COMPLETE [2판] [상세정보](http://book.daum.net/detail/book.do?bookid=ENG9780735619678)
 * 한 권으로 끝내는 정규표현식 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979147742)
 * (다양한 언어로 배우는) 정규표현식 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890456)
