@@ -244,6 +244,8 @@
 * 자바 프로그래밍 면접, 이렇게 준비한다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481529)
 * 자바 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788909111911)
 * 자바 게임 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788976278678)
+* **자바 퍼즐러** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481444)
+* Java Objects [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788976279057)
 ### 파이썬
 * (누구나 쉽게 배우는) 파이썬 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020533363IN)
 * 파이썬으로 배우는 실전 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
@@ -346,6 +348,7 @@
 * 리눅스를 활용한 회사 인프라 구축의 모든 것 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998139742)
 * CentOS 리눅스 구축관리 실무 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992927109)
 * 김태용의 리눅스 쉘 스크립트 프로그래밍 입문 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996241027)
+* 리눅스 커널의 이해 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144321)
 ### 유닉스
 * 손에 잡히는 Vim [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260003)
 * 유닉스 리눅스 프로그래밍 필수 유틸리티 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010813387IN)
