@@ -254,9 +254,9 @@
 ### C
 * 난 정말 C PROGRAMMING을 공부한적이 없다구요 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996094012)
 * 알고리즘 트레이닝 Competitive Programming [상새정보](http://book.daum.net/detail/book.do?bookid=KOR9788966264001)
-* C와 C++ 게임 코드로 알아보는 코딩의 기술 (오즈 모리하루 저 / 윤인성 역 | 한빛미디어 | 2016년 04월 01일)
-* C로 배우는 쉬운 자료구조 (이지영 저 | 한빛아카데미 | 2013년 07월 30일)
-* 이것이 C 언어다, 서현우의 C 프로그래밍 정복 (서현우 저 / 박상현, 김성훈, 김대정 감수 | 한빛미디어 | 2014년 05월 20일)
+* C와 C++ 게임 코드로 알아보는 코딩의 기술 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968482694)
+* C로 배우는 쉬운 자료구조 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998756383)
+* 이것이 C 언어다, 서현우의 C 프로그래밍 정복 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481024)
 * C 기초 플러스 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931553765)
 * C 언어 프로그래밍 [상세정보](http://www.yes24.com/24/goods/63416?scode=032&OzSrank=6)
 ### C#
@@ -269,8 +269,8 @@
 * 프로 자바스크립트 테크닉 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268432)
 * **인사이드 자바스크립트 Inside JavaScript** [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00022199330YE)
 * React.js 핵심정리 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00029485910YE)
-* 프로 리액트 React.js를 이용한 모던 프런트엔드 구축 (카시우 지 소자 안토니우 저 / 최민석 역 | 위키북스 | 2016년 05월 31일)
-* 함수형 자바 스크립트 (마이클 포거스 저 / 우정은 역 / 정경석 감수 | 한빛미디어 | 2014년 02월 01일)
+* 프로 리액트 React.js를 이용한 모던 프런트엔드 구축 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390426)
+* 함수형 자바 스크립트 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480799)
 * WebGL 개발 입문 (브라이언 댄칠라 저 / 유윤선 역 | 길벗 | 2012년 12월 26일)
 * 자바스크립트 코딩 기법과 핵심 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260157)
 * 자바스크립트 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260768)
