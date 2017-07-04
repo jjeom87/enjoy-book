@@ -89,7 +89,7 @@
 * **소프트웨어개발의 지혜** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991105003)
 * **클린 소프트웨어** 애자일 원칙과 패턴, 그리고 실천 방법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890852)
 * **클린 코더** 단순 기술자에서 진정한 소프트웨어 장인이 되기까지 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960778818)
-* 실전 코드로 배우는 실용주의 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508512)
+* **실전 코드로 배우는 실용주의 디자인 패턴** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508512)
 * 엘리멘틀 디자인 패턴 : 객체지향과 디자인 패턴의 연결 고리 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480140)
 * Head First Object Oriented Analysis & Design [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144949)
 * 도메인 주도 설계 구현 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960778429)
