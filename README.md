@@ -149,11 +149,10 @@
 * GoF의 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791195444953)
 * K교수의 객체지향 이야기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788989383116)
 * 다이어그램으로 쉽게 배우는 UML [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00003285066YE)
-* UML 실전에서는 이것만 쓴다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268937)
+* **UML 실전에서는 이것만 쓴다** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268937)
 * 켄트 벡의 구현 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960770317)
-* 프로젝트가 서쪽으로 간 까닭은 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268685)
 * Head First Software Development [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979146226)
-* 도메인 주도 설계 소프트웨어의 복잡성을 다루는 지혜 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992939850)
+* **도메인 주도 설계** 소프트웨어의 복잡성을 다루는 지혜 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992939850)
 * 패턴 지향 소프트웨어 아키텍처: 패턴 시스템 Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508727)
 * 테스트 주도 개발로 배우는 객체 지향 설계와 실천 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260836)
 * JUnit in Action : 단위 테스트의 모든 것 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260065)
@@ -369,7 +368,7 @@
 * 이것이 레디스다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480596)
 * 만들면서 배우는 기계 학습 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00017925360BA)
 ### 시스템관리/서버
-* **실무로 배우는 시스템 성능 최적화 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390235)**
+* **실무로 배우는 시스템 성능 최적화** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390235)
 * 시스템 성능 분석과 최적화 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390181)
 * 24시간 365일 서버/인프라를 지탱하는 기술 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996241003)
 * 그림으로 공부하는 시스템 성능 구조 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890234)
@@ -379,7 +378,7 @@
 * 자연어 텍스트 처리를 통한 검색 시스템 구축 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960776500)
 * (시작하세요!) 엘라스틱서치 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998139797)
 ## ETC
-* **프로그래머의 길, 멘토에게 묻다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268807)**
+* **프로그래머의 길, 멘토에게 묻다** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268807)
 * **실용주의 사고와 학습** Pragmatic Thinking & Learning Refactor Your Wetware [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010157499AL)
 * **조엘 온 소프트웨어** : 유쾌한 오프라인 블로그 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788989975588)
 * **사랑하지 않으면 떠나라!** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268357)
@@ -396,3 +395,4 @@
 * 프로그래머로 사는 법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979149623)
 * 프로그래머, 수학으로 생각하라 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965400592)
 * 네이버를 만든 기술, 읽으면서 배운다 자바편 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998139780)
+* 프로젝트가 서쪽으로 간 까닭은 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268685)
