@@ -49,6 +49,7 @@
 ### 네트워크 일반
 * TCP/IP Illustrated, Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960773837)
 * HTTP 완벽 가이드 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261208)
+* 네트워킹과 웹 성능 최적화 기법 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261659)
 ### TCP/IP
 ### 보안/해킹
 ## 모바일 프로그래밍
@@ -307,6 +308,7 @@
 ### 프로그래밍 언어 기타
 * 허드슨을 이용한 지속적통합 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK0001813653011)
 * 클로저 프로그래밍의 즐거움 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00028889589IN)
+* 클로저 시작하기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261802)
 * 생각하는 프로그래밍 프로그래밍 본질에 관한 15가지 에세이 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995300930)
 * CODE 코드 하드웨어와 소프트웨어에 숨어 있는 언어 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010830743IN)
 * Beautiful Code [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979145380)
@@ -316,13 +318,12 @@
 * 처음 시작하는 정규표현식 Regular Expressions [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020055294BA)
 * 프로그램 디자인, 어떻게 할 것인가 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268975)
 * 프로그래밍 얼랭 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268401)
-* 클로저 시작하기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261802)
-* 프로그래밍 스칼라 실용적인 스칼라 활용법을 익히는 가장 확실한 실전 바이블 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00029535304AL)
 * 실용주의 프로그래머를 위한 버전관리 using CVS [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995300992)
 * 손에 잡히는 서브버전 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260218)
 * 프로 Git [2판] [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261789)
 * Git, 분산 버전 관리 시스템 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268722)
 * 프로그래밍 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390051)
+* 프로그래밍 스칼라 실용적인 스칼라 활용법을 익히는 가장 확실한 실전 바이블 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00029535304AL)
 * 프로그래밍 스칼라 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00029535304AL)
 * Programming in Scala [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960777736)
 * 스칼라 동시성 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960778160)
@@ -330,9 +331,10 @@
 * 쉽게 배워서 빨리 써먹는 스칼라 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK0002005358811)
 * PLAY for SCALA 플레이 2 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788993827996)
 * Play Framework Cookbook 한국어판 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960772724)
-* 테스트 주도 개발 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268043)
+* **테스트 주도 개발** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268043)
 * Nature of Code [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481901)
 * 프로그래밍 면접, 이렇게 준비한다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480843)
+* 하스켈로 배우는 함수형 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890296)
 ## OS/데이터베이스
 * PostgreSQL 9.4 공식 가이드 Vol.1 서버 관리 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960777798)
 * PostgreSQL 성능 최적화 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00023452266YE)
