@@ -246,6 +246,8 @@
 * 자바 게임 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788976278678)
 * **자바 퍼즐러** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481444)
 * Java Objects [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788976279057)
+* 실전 스프링 부트 워크북 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12095873)
+* 스프링 퀵 스타트 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=10768455)
 ### 파이썬
 * (누구나 쉽게 배우는) 파이썬 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020533363IN)
 * 파이썬으로 배우는 실전 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
@@ -291,6 +293,7 @@
 * 실전 프로젝트로 배우는 AngularJS [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00026497247YE)
 * 더 나은 프로그래밍을 위한 코드골프 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00024488772YE)
 * Vue.js 2 시작하기 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00032746076YE)
+* You Don’t Know JS [상새정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12199050)
 ### JSP
 * 클릭하세요 TOMCAT + MYSQL + JSP [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788972807698)
 ### Perl
