@@ -294,6 +294,8 @@
 * 더 나은 프로그래밍을 위한 코드골프 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00024488772YE)
 * Vue.js 2 시작하기 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00032746076YE)
 * You Don’t Know JS [상새정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12199050)
+* Angular Development with TypeScript [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12125926) 
+* 쉽고 빠르게 배우는 Angular 2 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=11340610)
 ### JSP
 * 클릭하세요 TOMCAT + MYSQL + JSP [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788972807698)
 ### Perl
