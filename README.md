@@ -361,6 +361,8 @@
 * CentOS 리눅스 구축관리 실무 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992927109)
 * 김태용의 리눅스 쉘 스크립트 프로그래밍 입문 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996241027)
 * 리눅스 커널의 이해 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144321)
+* 64비트 멀티코어 OS 원리와 구조1 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=6673643)
+* 64비트 멀티코어 OS 원리와 구조2 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=6673647)
 ### 유닉스
 * 손에 잡히는 Vim [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260003)
 * 유닉스 리눅스 프로그래밍 필수 유틸리티 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010813387IN)
