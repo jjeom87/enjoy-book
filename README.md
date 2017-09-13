@@ -248,6 +248,7 @@
 * Java Objects [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788976279057)
 * 실전 스프링 부트 워크북 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12095873)
 * 스프링 퀵 스타트 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=10768455)
+* 함수형 반응형 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12285041)
 ### 파이썬
 * (누구나 쉽게 배우는) 파이썬 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020533363IN)
 * 파이썬으로 배우는 실전 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
@@ -341,6 +342,7 @@
 * Nature of Code [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481901)
 * 프로그래밍 면접, 이렇게 준비한다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480843)
 * 하스켈로 배우는 함수형 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791185890296)
+* 핵심 문법과 예제로 배우는 코틀린 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12495543)
 ## OS/데이터베이스
 * PostgreSQL 9.4 공식 가이드 Vol.1 서버 관리 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960777798)
 * PostgreSQL 성능 최적화 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00023452266YE)
