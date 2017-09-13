@@ -146,6 +146,7 @@
 * 데이터베이스 시스템 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960552036)
 ### 개발방법론
 * **코딩인터뷰 완전분석** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260485)
+* **코딩인터뷰 완전분석** [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12327704)
 * GoF의 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788945072146)
 * GoF의 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791195444953)
 * K교수의 객체지향 이야기 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788989383116)
@@ -249,6 +250,8 @@
 * 실전 스프링 부트 워크북 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12095873)
 * 스프링 퀵 스타트 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=10768455)
 * 함수형 반응형 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12285041)
+* 스프링 마이크로서비스 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12270182)
+* 자바 람다 배우기 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12344257)
 ### 파이썬
 * (누구나 쉽게 배우는) 파이썬 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020533363IN)
 * 파이썬으로 배우는 실전 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
