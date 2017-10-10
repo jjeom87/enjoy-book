@@ -416,3 +416,10 @@
 * 네이버를 만든 기술, 읽으면서 배운다 자바편 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998139780)
 * 프로젝트가 서쪽으로 간 까닭은 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268685)
 * 해커스 세상을 바꾼 컴퓨터 천재들 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=7287378)
+
+----
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+<a href='https://www.facebook.com/choi.sungjo' target='_blank'>choi.sungjo</a>가 작성한 이 저작물은
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
