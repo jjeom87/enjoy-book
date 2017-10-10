@@ -121,6 +121,7 @@
 * 알고리즘 문제 풀이 전략 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00029335723AL)
 * C로 배우는 알고리즘 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701395)
 * C로 배우는 알고리즘 2 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701913)
+* Hello Coding 그림으로 개념을 이해하는 알고리즘 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=11823284)
 ### 전산수학(SPSS/MATLAB)
 ### 정보통신 공학
 ### 취미 공학
@@ -253,6 +254,7 @@
 * 스프링 마이크로서비스 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12270182)
 * 자바 람다 배우기 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12344257)
 * 러닝 아카 더 비기닝 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12299595)
+* JVM Performance Optimizing 및 성능분석 사례 [상세보기](http://book.naver.com/bookdb/book_detail.nhn?bid=12583997)
 ### 파이썬
 * (누구나 쉽게 배우는) 파이썬 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020533363IN)
 * 파이썬으로 배우는 실전 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
@@ -382,6 +384,7 @@
 * T-SQL PROGRAMMING [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788956743486)
 ### 클라우드/빅데이터
 * 이것이 레디스다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480596)
+* 카우치베이스 실전 가이드 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=8843569)
 * 만들면서 배우는 기계 학습 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00017925360BA)
 ### 시스템관리/서버
 * **실무로 배우는 시스템 성능 최적화** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791158390235)
@@ -412,3 +415,4 @@
 * 프로그래머, 수학으로 생각하라 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965400592)
 * 네이버를 만든 기술, 읽으면서 배운다 자바편 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788998139780)
 * 프로젝트가 서쪽으로 간 까닭은 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268685)
+* 해커스 세상을 바꾼 컴퓨터 천재들 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=7287378)
