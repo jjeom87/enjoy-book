@@ -310,6 +310,8 @@
 * PHP 프로그래밍 입문 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979143744)
 * 성공적인 웹 프로그래밍 PHP와 MySQL [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788956747422)
 * PHP 개발자를 위한 실전 자바스크립트 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960770010)
+* Modern PHP [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=9685859)
+* 만들면서 배우는 CodeIgniter 프레임워크 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=7267787)
 ### Ruby/Rails
 * 레일스와 함께하는 애자일 웹 개발 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268265)
 ### Visual Basic
