@@ -231,6 +231,7 @@
 * **Java Performance Fundamental** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995765371)
 * **Java 언어로 배우는 디자인 패턴 입문** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931436914)
 * Java 언어로 배우는 리팩토링 입문 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00003284068YE)
+* Java 언어로 배우는 리팩토링 입문 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12685153)
 * 자바 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00014989755BA)
 * 자바 객체지향 디자인 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00022676534YE)
 * 자바 채팅 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788970747767)
