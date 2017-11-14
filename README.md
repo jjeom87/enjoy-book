@@ -98,6 +98,7 @@
 * 스크럼 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788991268470)
 * 기업 통합 패턴 Enterprise Integration Patterns [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960776128)
 * 소프트웨어 컨플릭트 2.0 [상세정보](http://www.yes24.com/24/Goods/2309846?Acode=101)
+* 디자인 오브 디자인 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12698700)
 ### 자료구조/알고리즘
 * The art of computer programming 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144307)
 * The art of computer programming 2 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144840)
