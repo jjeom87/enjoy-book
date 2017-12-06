@@ -157,6 +157,7 @@
 * 켄트 벡의 구현 패턴 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960770317)
 * Head First Software Development [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979146226)
 * **도메인 주도 설계** 소프트웨어의 복잡성을 다루는 지혜 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788992939850)
+* 도메인 주도 설계 핵심 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12547690)
 * 패턴 지향 소프트웨어 아키텍처: 패턴 시스템 Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788955508727)
 * **테스트 주도 개발로 배우는 객체 지향 설계와 실천** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260836)
 * JUnit in Action : 단위 테스트의 모든 것 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260065)
@@ -386,6 +387,7 @@
 * SQL Server 운영과 튜닝 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931442427)
 * 실전 SQL Server MVP 53 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788996276586)
 * T-SQL PROGRAMMING [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788956743486)
+* SQL 코딩의 기술 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12812447)
 ### 클라우드/빅데이터
 * 이것이 레디스다 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968480596)
 * 카우치베이스 실전 가이드 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=8843569)
