@@ -306,6 +306,7 @@
 * You Don’t Know JS [상새정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12199050)
 * Angular Development with TypeScript [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12125926) 
 * 쉽고 빠르게 배우는 Angular 2 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=11340610)
+* 함수형 자바스크립트 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12800140)
 ### JSP
 * 클릭하세요 TOMCAT + MYSQL + JSP [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788972807698)
 ### Perl
