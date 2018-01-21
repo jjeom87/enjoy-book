@@ -25,6 +25,23 @@
 * 웹브라우저는 서버로부터 객체를 돌려받을 때, 다룰 수 있는 객체 인지 MIME 타입을 통해 확인
 * MIME 타입은 사선(/)으로 구분된 주 타입(primary object type)과 부 타입(specific subtype)으로 이루어 진 문자열 라벨
 ##### 1.3.2 URI
+* **서버 리소스 이름은 통합 자원 식별자(uniform resource identifier), 혹은 URI로 불림**
+* **URI는 인터넷의 우편물 주소 같은 것으로, 정보 리소스를 고유하게 식별하고 위치를 지정할 수 있음**
+* URI에는 두 가지가 있음 URL, URN
+![URL은 프로토콜, 서버 , 리소스롤 명시한다](/images/네트워크_해킹_보안/네트워크일반/HTTP완벽가이드/figure_1-4.png)
+##### 1.3.3 URI
+* 통합 자원 지시자(uniform resource locator, URL)는 리소스 식별자의 가장 흔한 형태
+* URL은 특정 서버의 한 리소스에 대한 구체적인 위치를 서술
+| URL | 설명 |
+| --- | --- |
+| http://www.oreilly.com/index html | 오라일리 출판사 홈페이지의 URL |
+| http://www.yahoo.com/images/logo.gif | 야후! 웹 사이트 로고의 URL |
+| http://www.joes-hardware.com/nventory-check.cgl?ltem=12731 | 물품 #12731의 재고가 있는지 확인하는 프로그램에 대한URL |
+| ftp://joe:tools4u@ftp.joes-hardware.com/locking-pliers.gif | 비밀번호로 보호되는 FTP를 통해 locking-pliers.gif 이미지 파일에 접근하는 URL|
+* URL은 세 부분으로 이루어진 표준 포맷을 따름
+  * URL의 첫 번째 부분은 스킴(scheme)이라고 불리는데, 리소스에 접근하기 위해 사용되는 프로토콜을 서술
+  * 두 번째 부분은 서버의 인터넷 주소를 제공
+  * 마지막은 웹 서버의 리소스를 가리킴
 #### 1.4 트랜잭션
 #### 1.5 메시지 
 #### 1.6 TCP 커넥션 
