@@ -32,16 +32,23 @@
 ##### 1.3.3 URI
 * 통합 자원 지시자(uniform resource locator, URL)는 리소스 식별자의 가장 흔한 형태
 * URL은 특정 서버의 한 리소스에 대한 구체적인 위치를 서술
+
 | URL | 설명 |
 | --- | --- |
 | http://www.oreilly.com/index html | 오라일리 출판사 홈페이지의 URL |
 | http://www.yahoo.com/images/logo.gif | 야후! 웹 사이트 로고의 URL |
 | http://www.joes-hardware.com/nventory-check.cgl?ltem=12731 | 물품 #12731의 재고가 있는지 확인하는 프로그램에 대한URL |
 | ftp://joe:tools4u@ftp.joes-hardware.com/locking-pliers.gif | 비밀번호로 보호되는 FTP를 통해 locking-pliers.gif 이미지 파일에 접근하는 URL|
+
 * URL은 세 부분으로 이루어진 표준 포맷을 따름
   * URL의 첫 번째 부분은 스킴(scheme)이라고 불리는데, 리소스에 접근하기 위해 사용되는 프로토콜을 서술
   * 두 번째 부분은 서버의 인터넷 주소를 제공
   * 마지막은 웹 서버의 리소스를 가리킴
+##### 1.3.4 URN
+* URN은 콘텐츠를 이루는 한 리소스에 대해, 그 리소스의 위치에 영향 받지 않는 유일무이한 이름 역할
+* 이 위치 독립적인 URN은 리소스를 여기저기로 옮기더 라도 문제없이 동작
+* 리소스가 그 이름을 변하지 않게 유지하는 한, 여러 종류 의 네트워크 접속 프로토콜로 접근해도 문제없음
+* URN은 여전히 실험 중인 상태고 아직 널리 채택되지 않음
 #### 1.4 트랜잭션
 #### 1.5 메시지 
 #### 1.6 TCP 커넥션 
