@@ -38,7 +38,7 @@
 | http://www.oreilly.com/index html | 오라일리 출판사 홈페이지의 URL |
 | http://www.yahoo.com/images/logo.gif | 야후! 웹 사이트 로고의 URL |
 | http://www.joes-hardware.com/nventory-check.cgl?ltem=12731 | 물품 #12731의 재고가 있는지 확인하는 프로그램에 대한URL |
-| ftp://joe:tools4u@ftp.joes-hardware.com/locking-pliers.gif | 비밀번호로 보호되는 FTP를 통해 locking-pliers.gif 이미지 파일에 접근하는 URL|
+| ftp://joe:tools4u@ftp.joes-hardware.com/locking-pliers.gif | 비밀번호로 보호되는 FTP를 통해 locking-pliers.gif 이미지 파일에 접근하는 URL |
 
 * URL은 세 부분으로 이루어진 표준 포맷을 따름
   * URL의 첫 번째 부분은 스킴(scheme)이라고 불리는데, 리소스에 접근하기 위해 사용되는 프로토콜을 서술
@@ -50,6 +50,8 @@
 * 리소스가 그 이름을 변하지 않게 유지하는 한, 여러 종류 의 네트워크 접속 프로토콜로 접근해도 문제없음
 * URN은 여전히 실험 중인 상태고 아직 널리 채택되지 않음
 #### 1.4 트랜잭션
+* HTTP 트랜잭션은 요청 명령(클라이언트에서 서버로 보내는)과 응답 결과(서버가 클라이언트에게 돌려주는)로 구성
+![HTTP 트랜잭션은 요청과 응답 메시지로 구성되 어 있다](/images/네트워크_해킹_보안/네트워크일반/HTTP완벽가이드/figure_1-5.png)
 #### 1.5 메시지 
 #### 1.6 TCP 커넥션 
 #### 1.7 프로토콜 버전 
