@@ -244,6 +244,15 @@
 ##### 2.2.2 호스트와 포트
 * 호스트 컴포넌트는 접근하려고 하는 리소스를 가지고 있는 인터넷상의 호스트 장비
 * 포트 컴포넌트는 서버가 열어놓은 네트워크 포트를 가리킴
+* 내부적으로 TCP 프로토콜을 사용하는 HTTP는 기본 포트로 80을 사용
+
+##### 2.2.3 사용자 이름과 비밀번호
+* 서버가 자신이 가지고 있는 데이터에 접근을 허용하기 전에 사용자 이름과 비밀번호를 요구
+* 예시
+  * ftp://ftp.prep.ai.mit.edu/pub/gnu
+  * ftp://anonymous@ftp.prep.ai.mit.edu/pub/gnu
+  * ftp://anonymous:my_passwd@ftp.prep.ai.mit.edu/pub/gnu
+  * http://jeo:joespasswd@www.joes-hardware.com/sales_info.txt
 
 #### 2.3 단축 URL
 
