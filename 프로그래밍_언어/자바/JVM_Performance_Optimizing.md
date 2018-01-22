@@ -1,7 +1,9 @@
 # Java Virtual Machine Performance Optimizing 및 성능분석 사례
 
 ## JVM Internal 파헤치기
+
 ### JVM 메모리 구조
+
 #### JVM이란?
 * JVM은 정의된 스펙을 구현한 하나의 독자적인 프로세스 형태로 구동되는 Runtime Instance
 * Java에서 프로그램을 실행한다는 것은 컴파일 과정을 통하여 생성된 Class 파일을 JVM으로 로딩하고 ByteCode를 해석(interpret)하는 과정을 거쳐 메모리 등의 리소스를 할당하고 관리하며 정보를 처리하는 일련의 작업들을 포함
@@ -9,31 +11,57 @@
 * JVM상에서 Class Loader를 통해 Class 파일들을 로딩시키고, 로딩된 Class 파일들은 Execute Engine을 통해 해석
 * 해석된 프로그램은 Runtime Data Areas에 배치되어 실직적인 수행이 이루어짐
 ![Java 프로그램 수행과정](http://d2.naver.com/content/images/2015/06/helloworld-1230-1.png)
+
 #### Java Heap
+
 ##### Hotspot JVM의 Heap 구조
+
 ##### IBM JVM의 Heap 구조
+
 ### Garbage Collection
+
 #### GC 소개
+
 ##### GC 개요
+
 ##### GC로 인한 문제점
+
 ##### Root Set과 Garbage
+
 ##### Garbage Collection 목적
+
 #### Hotspot JVM의 Garbage Collection
+
 ##### 개요
+
 ##### GC 대상 및 범위
+
 ##### GC 관련 옵션들
+
 ##### Garbage Collector 종류
+
 #### IBM JVM의 Garbage Collection
+
 ##### Garbage Collection 단계
+
 ##### Garbage Collector 종류
+
 ##### IBM JVM 환경의 Memory Leak 유형
+
 ##### 결론
+
 #### GC 튜닝
+
 ##### GC 튜닝 필요성
+
 ##### GC 튜닝 목적
+
 ##### Object 수 최소화의 중요성(Between Eden and Old Area)
+
 ##### Full GC Time 줄이기
+
 ##### GC의 성능을 결정하는 옵션
+
 ##### GC 튜닝 과정
 ##### 일반적으로 GC 튜닝이 불필요 한 상황
 ##### GC 방식 선택
