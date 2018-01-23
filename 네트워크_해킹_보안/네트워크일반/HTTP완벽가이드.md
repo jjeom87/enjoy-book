@@ -302,6 +302,15 @@
 * URL에 이스케이프 문자열을 쓸 수 있게 설계
 * 이스케이프 문자열은 US-ASCll에서 사용이 금지된 문자들로, 특정 문자나 데이터를 인코딩할 수 있게 함으로써 이동성과 완성도를 높임
 
+##### 2.4.2 인코딩 체계
+* 인코딩은 안전하지않은 문지를 퍼 센티 지 기호(%)로 시 작해 , ASCII 코드로 표현되는 두 개 의 16진수 숫자로 이루어 진 '이스케이프' 문자로 바꿈
+
+| 문자 | ASCII코드| URL의 예 |
+| --- | --- | --- |
+| ~ | 126(0x7E) | http://www.joes-hardware.com/%7Ejoe |
+| 빈문자 | 32(0x20) | http://www.joes-hardware.com/more%20tools.html |
+| % | 37(0x25) | http://www.joes-hardware.com/100%25satisfaction.html |
+
 #### 2.5 스킴의 바다
 
 #### 2.6 미래
