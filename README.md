@@ -49,6 +49,7 @@
 ### 네트워크 일반
 * **HTTP 완벽 가이드** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261208)
 * **네트워킹과 웹 성능 최적화 기법** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966261659)
+* 러닝 HTTP/2 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=13193220)
 ### TCP/IP
 * TCP/IP Illustrated, Volume 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788960773837)
 * TCP/IP 완벽 가이드 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=2626374)
