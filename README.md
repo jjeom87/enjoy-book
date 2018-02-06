@@ -260,6 +260,7 @@
 * 자바 람다 배우기 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12344257)
 * 러닝 아카 더 비기닝 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12299595)
 * JVM Performance Optimizing 및 성능분석 사례 [상세보기](http://book.naver.com/bookdb/book_detail.nhn?bid=12583997)
+* 퍼펙트 자바 네트워크 게임 프로그래밍 [상세보기](http://book.naver.com/bookdb/book_detail.nhn?bid=53462)
 ### 파이썬
 * (누구나 쉽게 배우는) 파이썬 프로그래밍 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00020533363IN)
 * 파이썬으로 배우는 실전 알고리즘 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
