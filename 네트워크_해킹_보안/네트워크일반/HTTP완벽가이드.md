@@ -825,6 +825,11 @@ Keep-Alive: max=5, timeout=12O
 ![keep-alive는 Connection 헤더를 지원하지 않은 프락시와는 상호작용하지 않는다](/assets/images/books/네트워크_해킹_보안/네트워크일반/HTTP완벽가이드/figure_4-15.png)
 
 ###### 프락시와 흡별 헤더
+* 프락시는 Connection 헤더와 Connection 헤더에 명시된 헤더들은 절대 전달하면 안 됨
+
+##### 4.5.7 Proxy-Connection 살펴보기
+
+![ProxyConnection 헤더는 단일 무조건 전달 문제를 해결해준다.](/assets/images/books/네트워크_해킹_보안/네트워크일반/HTTP완벽가이드/figure_4-16.png)
 
 #### 4.6 파이프라인 커넥션
 
