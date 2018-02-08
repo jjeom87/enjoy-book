@@ -806,6 +806,26 @@ Content-Type: text/html; charset=iso-latin-1
 * Keep-AIive 헤더는 커넥션을 유지하기를 바라는 요청일 뿐
 * 클라이언트나 서버가 keep-alive 요청을 받았다고 해서 무조건 그것을 따를 필요는 없음
 
+```
+Connection: Keep-AIive
+Keep-Alive: max=5, timeout=12O
+```
+
+##### 4.5.5 Keep-Alive 커넥션 제한과 규칙
+* keep-alive는 HTTP/1.0에서 기본으로 사용되지는 않음
+* 클라이언트는 keep-alive 커넥션을 사용하기 위해 Connection: Keep-AIive 요청 헤더를 보내야 함
+* 커넥션을 계속 유지하려면 모든 메시지에 Connection: Keep-Alive 헤더를 포함해 보내야 함 (클라이 언트가 Connection: Keep-Alive 헤더를 보내지 않으면 서버는 요청을 처 리한 후 커넥션을 끊을 것)
+* 클라이언트는 Connection: Keep-Alive 응답 헤더가 없는 것을 보고 서버가 응답후에 커넥션을 끊을 것임을 알 수 있음
+
+##### 4.5.6 Keep-Alive와 멍청한(dumb) 프락시
+
+###### Connection 헤더의 무조건 전달
+* 특히 문제는 프락시에서 시작되는데, 프락시는 Connection 헤더를 이해하지 못해서 해당 헤더들을 삭제하지 않고 요청 그대로를 다음 프락시에 전달
+
+![keep-alive는 Connection 헤더를 지원하지 않은 프락시와는 상호작용하지 않는다](/assets/images/books/네트워크_해킹_보안/네트워크일반/HTTP완벽가이드/figure_4-15.png)
+
+###### 프락시와 흡별 헤더
+
 #### 4.6 파이프라인 커넥션
 
 #### 4.7 커넥션 끊기에 대한 미스터리
