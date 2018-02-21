@@ -125,6 +125,7 @@
 * C로 배우는 알고리즘 1 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701395)
 * C로 배우는 알고리즘 2 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931701913)
 * Hello Coding 그림으로 개념을 이해하는 알고리즘 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=11823284)
+* 알고리즘 도감 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=13272714)
 ### 전산수학(SPSS/MATLAB)
 ### 정보통신 공학
 ### 취미 공학
@@ -276,6 +277,7 @@
 * 이것이 C 언어다, 서현우의 C 프로그래밍 정복 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788968481024)
 * C 기초 플러스 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788931553765)
 * C 언어 프로그래밍 [상세정보](http://www.yes24.com/24/goods/63416?scode=032&OzSrank=6)
+* 게임으로 C 프로그래밍 마스터하기 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=13287444)
 ### C#
 ### C++
 ### JavaScript/CGI
@@ -375,6 +377,7 @@
 * 리눅스 커널의 이해 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979144321)
 * 64비트 멀티코어 OS 원리와 구조1 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=6673643)
 * 64비트 멀티코어 OS 원리와 구조2 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=6673647)
+* 리눅스 핵심 레퍼런스 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=13255918)
 ### 유닉스
 * 손에 잡히는 Vim [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788966260003)
 * 유닉스 리눅스 프로그래밍 필수 유틸리티 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010813387IN)
