@@ -43,7 +43,7 @@
 * 모든 운영 코드(production code)는 같은 워크스테이션으로 일하는 프로그래머 짝들에 의해 작성된다.
 
 ##### 테스트 주도 개발
-* 모든 운영 코드는 실패하는 단위 테스트를 통과하기 위해 작성된다
+* 모든 운영 코드는 실패하는 단위 테스트를 통과하기 위해 작성된다.
 
 ##### 공동 소유권
 
@@ -53,11 +53,147 @@
 
 ##### 열린 작업 공간
 
+##### 계획 세우기 게임
+
+##### 단순한 설계
+* 어떻게든 동작하는 가장 단순한 것을 생각한다.
+* 필요하지 않을 겻이라는 가정에서 시작한다.
+* 코드를 중복에서 쓰지 않는다.
+
+##### 리팩토링
+
+##### 메타포
+
 ### 3 계획 세우기
 
-### 4 테스트 주도 개발
+### 4 테스트
+
+##### 테스트 주도 개발
+* 일차적이고 가장 명백한 효과는 프로그램의 모든 단일 함수가 그 동작을 검증하는 테스트를 갖게 된다는 것
+* 명백하진 않지만 더 중요한 효과는, 테스트를 먼저 작성할 경우 프로그래머가 다른 관점에서 문제를 해결할 수 있다는 것
+* 테스트를 먼저 작성함으로써, 프로그래머는 자신이 반드시 테스트 가능한 프로그램을 설계하도록 강제할 수 있음
+* 테스트가 문서화의 귀중한 한 형태로 기능할 있다는 것
+
+##### 테스트 우선 방식 설계의 예
 
 ### 5 리팩토링
+* 리팩토링을 "외부행위를 바꾸지 않으면서 내부 구조를 개선하는 방법으로, 소프트웨어 시스템을 변경하는 프로세스"
+
+#### 소수 생성기: 리맥토링의 간단만 예*2
+
+```java
+
+public class PrimeGenerator {
+
+	private static boolean[] isCrossed;
+	private static int[] result;
+
+	public static int[] generatePrimes(int maxValue) {
+		if (maxValue < 2) {
+			return new int[0];
+		} else {
+			initializeArrayOfIntegers(maxValue);
+			crossOutMultiples();
+			putUncrossedIntegerIntoResult();
+			return result;
+		}
+	}
+
+	private static void initializeArrayOfIntegers(int maxValue) {
+		isCrossed = new boolean[maxValue + 1];
+		for (int i = 2; i < isCrossed.length; i++)
+			isCrossed[i] = false;
+	}
+
+	private static void crossOutMultiples() {
+		for (int i = 2; i <= calcMaxPrimeFactor(); i++) {
+			if (notCrossed(i)) {
+				crossOutMultiplesOf(i);
+			}
+		}
+	}
+
+	private static void crossOutMultiplesOf(int i) {
+		for (int j = 2 * i; j < isCrossed.length; j += i) {
+			isCrossed[j] = true;
+		}
+	}
+
+	private static void putUncrossedIntegerIntoResult() {
+		result = new int[numberOfUncrossedIntegers()];
+		for (int i = 2, j = 0; i < isCrossed.length; i++) {
+			if (notCrossed(i))
+				result[j++] = i;
+		}
+	}
+
+	private static int numberOfUncrossedIntegers() {
+		int count = 0;
+		for (int i = 2; i < isCrossed.length; i++) {
+			if (notCrossed(i))
+				count++;
+		}
+		return count;
+	}
+
+	private static boolean notCrossed(int i) {
+		return isCrossed[i] == false;
+	}
+
+	private static int calcMaxPrimeFactor() {
+		return (int) Math.sqrt(isCrossed.length) + 1;
+	}
+}
+
+```
+
+```java
+
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+
+public class TestGeneratePrimes {
+
+	@Test
+	public void testPrimes() {
+		int[] nullArray = PrimeGenerator.generatePrimes(0);
+		assertEquals(nullArray.length, 0);
+
+		int[] minArray = PrimeGenerator.generatePrimes(2);
+		assertEquals(minArray.length, 1);
+		assertEquals(minArray[0], 2);
+
+		int[] threeArray = PrimeGenerator.generatePrimes(3);
+		assertEquals(threeArray.length, 2);
+		assertEquals(threeArray[0], 2);
+		assertEquals(threeArray[1], 3);
+
+		int[] centArray = PrimeGenerator.generatePrimes(100);
+		assertEquals(centArray.length, 25);
+	}
+
+  @Test
+	public void testExhaustive() {
+		for (int i = 0; i < 500; i++) {
+			verifyPrimeList(PrimeGenerator.generatePrimes(i));
+		}
+	}
+
+	private void verifyPrimeList(int[] list) {
+		for (int i : list) {
+			verifyPrime(i);
+		}
+	}
+
+	private void verifyPrime(int n) {
+		for (int j = 2; j < n; j++) {
+			assertTrue(n % j != 0);
+		}
+	}
+}
+
+```
 
 ### 6 프로그래밍 에피소드
 
