@@ -200,6 +200,22 @@ public class TestGeneratePrimes {
 
 ## 2 애자일 설계
 
+#### 잘못된 설계의 증상
+1. 경직성(Rigidity) : 설계를 변경하기 어려움
+2. 취약성(Fragility) : 설계가 망가지지 쉬움
+3. 부동성(Immobility) : 설계를 재사용하기 어려움
+4. 점착성(Viscosity) : 제대로 동작하기 어려움
+5. 불필요한 복잡성 (Needless Complexity) : 과도한 설계
+6. 불필요한 반복(Needless Repetition) : 마우스 남용
+7. 불투명성(Opacity) : 혼란스러운 표현
+
+#### 원칙
+1. SRP: 단일 책임 원칙 (Single Responsibility Principle)
+2. OCP: 개방 폐쇄 원칙 (Open-Closed Principle)
+3. LSP: 리스코프 치환 원칙 (Liskov Substitution Principle)
+4. DIP: 의존 관계 역전 원칙 (Dependency Inversion Principle)
+5. ISP: 인터페이스 분리 원칙 (Interface Segregation Principle)
+
 ### 7 애자일 설계란 무엇인가?
 
 ### 8 단일 책임 원칙(SRP)
