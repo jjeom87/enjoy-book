@@ -216,6 +216,9 @@ public class TestGeneratePrimes {
 4. DIP: 의존 관계 역전 원칙 (Dependency Inversion Principle)
 5. ISP: 인터페이스 분리 원칙 (Interface Segregation Principle)
 
+#### 악취의 원칙
+* 원칙에 대한 맹종은 불필요한 복잡성이란 설계의 악취로 이어진다.
+
 ### 7 애자일 설계란 무엇인가?
 
 ### 8 단일 책임 원칙(SRP)
