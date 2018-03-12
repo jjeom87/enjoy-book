@@ -243,11 +243,56 @@ public class TestGeneratePrimes {
 
 ![Copy 프로그램 구조 차트](/assets/images/books/컴퓨터공학/개발방법론/Agile_Software_Development/figure_7-1.png)
 
-```c
+* Copy 프로그램
+```C++
 void Copy() {
 	int c;
-	while ((c = RdKbd) != EOF)
+	while ((c = RdKbd()) != EOF)
 		WrtPrt(c);
+}
+```
+
+* Copy 프로그램의 첫 번째 수정본
+```C++
+bool ptFlag = false;
+void Copy() {
+	int c;
+	while ((c = (ptFlag ? RdPt() : RdKbd())) != EOF)
+		WrtPrt(c);
+}
+```
+
+* Copy 프로그램의 두 번째 수정본
+```C++
+bool ptFlag = false;
+bool punchFlag = false;
+void Copy() {
+	int c;
+	while ((c = (ptFlag ? RdPt() : RdKbd())) != EOF)
+		punchFlag ? WrtPunch(c) : WrtPrt(c);
+}
+```
+
+##### Copy 프로그램의 애자일 설계
+
+```C++
+class Reader {
+	public : virtual int read() = 0;
+}
+
+class KeyboardReader : public Reader {
+	public : virtual int read() {
+		return RdKdb();
+	}
+}
+
+KeyboardReader GdefaultReader;
+
+void Copy(Reader & reader = GdefaultReader) {
+	int c;
+	while ((c = reader.read()) != EOF) {
+		WrtPrt(c);
+	}
 }
 ```
 
