@@ -241,6 +241,16 @@ public class TestGeneratePrimes {
 
 #### 'Copy' 프로그램
 
+![Copy 프로그램 구조 차트](/assets/images/books/컴퓨터공학/개발방법론/Agile_Software_Development/figure_7-1.png)
+
+```c
+void Copy() {
+	int c;
+	while ((c = RdKbd) != EOF)
+		WrtPrt(c);
+}
+```
+
 #### 가능한 한 좋은 상태로 설계 유지하기
 
 ### 8 단일 책임 원칙(SRP)
