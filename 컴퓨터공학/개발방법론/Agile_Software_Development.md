@@ -309,11 +309,43 @@ void Copy(Reader & reader = GdefaultReader) {
 * 설계의 가장 중요한 표현인 소스 코드 역시 명료한 상태로 유지
 
 #### 결론
-*
+* 애자일 설계는 과정이지. 결괴카 아니다.
 
 ### 8 단일 책임 원칙(SRP)
 
 #### 단일 책임 원칙 (SRP)
+* **한 클래스는 단 한가지의 변경 이유만을 가져야 한다.**
+* 책임을 별개의 클래스로 분리
+* 책임은 변경의 축
+
+![하나 이상의 책임](/assets/images/books/컴퓨터공학/개발방법론/Agile_Software_Development/figure_8-1.png)
+
+* 각기 다른 두 애플리케이션이 Rectangle 클래스를 이용
+  * 계산 기하학을 위한 애플리케이션
+	* 그래픽을 위한 애플리케이션
+	* Rectangle 클래스가 두 가지의 책임을 맡고 있으므로 단일 책임 원칙(SRP)을 위반
+
+![분리된 책임](/assets/images/books/컴퓨터공학/개발방법론/Agile_Software_Development/figure_8-2.png)
+
+* Rectangle에서 계산을 하는 부분을 GeometricRectangle 클래스로 옮김
+* 직사각형이 그려지는 방식에 대한 변경은 ComputationGeometryApplication에 영향을 주지 않음
+
+##### 책임이란 무엇인가?
+* SRP의 맥락에서, 우리는 책임(responsibility)을 '변경을 위한 이유'로 정의
+* 애플리케이션이 서로 다른 시간에 두 가지 책임의 변경을 유발하는 방식으로 바뀌지는다면, 이들을 분리할 필요는 없음
+  * 분리하면 불필요한 복작성 증가
+* **변경의 축은 변경이 실제로 일어날 때만 변경의 축이다.**
+
+```java
+interface Model {
+	public void dial(String png);
+	public void hangup();
+	public void send(char c);
+	public void recv();
+}
+```
+
+![분리된 Modem 인터페이스](/assets/images/books/컴퓨터공학/개발방법론/Agile_Software_Development/figure_8-3.png)
 
 #### 결론
 
