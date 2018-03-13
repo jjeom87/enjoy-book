@@ -347,6 +347,9 @@ interface Model {
 
 ![분리된 Modem 인터페이스](/assets/images/books/컴퓨터공학/개발방법론/Agile_Software_Development/figure_8-3.png)
 
+##### 결합된 책임 분리하기
+
+
 #### 결론
 
 ### 9 개방 폐쇄 원칙(OCP)
