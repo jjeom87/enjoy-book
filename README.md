@@ -141,6 +141,7 @@
 * **데이터 아키텍처 솔루션 1** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995447406)
 * **대용량 데이터베이스 솔루션 II** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788995062913)
 * **데이터베이스 설계와 구축** : 성능까지 고려한 데이터 모델링 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979141689)
+* **데이터 모델 리소스 북 Vol.1**[상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=13423616)
 * **데이터 모델 리소스 북 Vol.3** [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00016984914YE)
 * **아는 만큼 보이는 데이터베이스 설계와 구축** [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788979145571)
 * **관계형 데이터 모델링 프리미엄 가이드** [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00010955334IN)
@@ -170,6 +171,7 @@
 * 소프트웨어 악취를 제거하는 리팩토링 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9791186978320)
 * UML DISTILLED [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788972832614)
 * 오브젝트 디자인 [상세정보](http://book.daum.net/detail/book.do?bookid=KOR9788980545308)
+* Specification by Example [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=7525682)
 ## 컴퓨터 수험서
 ## 컴퓨터 입문/활용
 ## 프로그래밍 언어
