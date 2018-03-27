@@ -310,7 +310,7 @@
 * 실전 프로젝트로 배우는 AngularJS [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00026497247YE)
 * 더 나은 프로그래밍을 위한 코드골프 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00024488772YE)
 * Vue.js 2 시작하기 [상세정보](http://book.daum.net/detail/book.do?bookid=BOK00032746076YE)
-* You Don’t Know JS [상새정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12199050)
+* You Don’t Know JS [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12199050)
 * Angular Development with TypeScript [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12125926) 
 * 쉽고 빠르게 배우는 Angular 2 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=11340610)
 * 함수형 자바스크립트 프로그래밍 [상세정보](http://book.naver.com/bookdb/book_detail.nhn?bid=12800140)
